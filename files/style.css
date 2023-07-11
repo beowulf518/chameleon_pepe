@@ -530,11 +530,11 @@ header .nav-menu {
 
 .banner-img-wrapper .banner-6 {
   position: absolute;
-  top: 35%;
-  left: 19%;
+  top: 15%;
+  left: 29%;
   transform: translate(-50%, -50%);
   width: 14vw;
-  width: 60%;
+  width: 40%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -542,7 +542,7 @@ header .nav-menu {
 .banner-img-wrapper .banner-2 {
   position: absolute;
   /* top: 0; */
-  bottom: -20%;
+  bottom: -70%;
   right: 7%;
   /* width: 16.5vw; */
   width: 45%;
@@ -561,7 +561,7 @@ header .nav-menu {
   position: absolute;
   /* top: 5%; */
   bottom: 16%;
-  left: 15%;
+  left: 5%;
   width: 10.75vw;
   width: 17.5%;
 }
@@ -678,7 +678,7 @@ header .nav-menu {
   display: block;
   left: 0;
   bottom: 0;
-  top: 215px;
+  top: 115px;
 }
 
 .about .features .feature-2::before {
@@ -834,7 +834,7 @@ header .nav-menu {
 .phase-art-img {
   position: absolute;
   right: 0;
-  bottom: -60px;
+  bottom: 0px;
 }
 
 .particle-wrap {
@@ -890,7 +890,7 @@ header .nav-menu {
 }
 
 .phase-list > li:nth-child(2) .phase-img-box .phase-art-img {
-  right: 125px;
+  right: 25px;
 }
 
 .phase-list > li:nth-child(2) .phase-img-box .particle-wrap,
@@ -903,8 +903,8 @@ header .nav-menu {
 }
 
 .phase-list > li:nth-child(3) .phase-img-box .phase-art-img {
-  top: -60px;
-  left: -60px;
+  top: 60px;
+  left: 80px;
   right: auto;
 }
 
@@ -1204,7 +1204,6 @@ header .nav-menu {
 
 /*faq starts*/
 .faq-section {
-  padding: 230px 0;
   position: relative;
 }
 
@@ -1295,7 +1294,7 @@ footer {
 
 .footer-cont .social-icon {
   background-color: #fff;
-  min-height: 230px;
+  /* min-height: 230px; */
   border-radius: 115px;
   display: flex;
   align-items: center;
